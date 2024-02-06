@@ -52,6 +52,10 @@ h1{
     background-color: rgb(180, 170, 136);
     width: 100%;
 }
+#art1 h3{
+    margin-top: 50px;
+    width: 70%;
+}
 #art2{
     float: right;
 }
