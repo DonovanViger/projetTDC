@@ -6,6 +6,12 @@ html, body{
 
 .menu{
   display: flex;
+  background-color: rgba(217, 230, 182,0.7);
+  box-shadow: 0px 0px 20px rgb(0, 0, 0) ;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
   
 }
 .menu ul{
@@ -20,7 +26,7 @@ html, body{
 
 .menu a{
   text-decoration: none;
-  color: white;
+  color: black;
 }
 
 h1{
