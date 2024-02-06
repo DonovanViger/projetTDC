@@ -16,7 +16,9 @@ h1{
     text-align: center;
 }
 #art1{
+    margin-top: 200px;
     float: left;
+    margin-left: 10vw;
 }
 #art2{
     float: right;
