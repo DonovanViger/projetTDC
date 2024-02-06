@@ -7,7 +7,7 @@ html, body{
 .menu{
   display: flex;
   background-color: rgba(217, 230, 182,0.7);
-  box-shadow: 0px 0px 20px rgb(0, 0, 0) ;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   position: fixed;
   top: 0;
   left: 0;
@@ -41,5 +41,6 @@ h1{
 }
 
 #plat1 {
-  
+  background-color: rgba(217, 230, 182,0.7);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
