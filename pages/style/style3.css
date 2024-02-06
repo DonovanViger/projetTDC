@@ -50,16 +50,12 @@ h1 {
   margin-top: -5vh;
 }
 
-#plat1 {
-  
-}
+#plat1 {}
 
-h3:after{
-  content: '';
-  display: block;
-  height: 8px;
-  background: rgb(0, 0, 0);
-  max-width: 55px;
-  transform: skewX(-21deg) translateY(-13px);
-  border-radius: 3px;
+.block {
+  margin: 0px 10px;
+  width: 25%;
+  height: 4px;
+  background: #8d988d;
+  margin-bottom: 2%;
 }
