@@ -3,6 +3,11 @@ body, html{
     margin: 0;
 }
 
+@font-face {
+    font-family: DreamOrphans;
+    src: url(Dream\ Orphans.otf);
+  }
+
 .menu{
     display: flex;
     background-color: rgba(217, 230, 182,0.7);
