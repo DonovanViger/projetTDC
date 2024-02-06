@@ -1,3 +1,14 @@
+body, html{
+    padding: 0;
+    margin: 0;
+    font-family: "DreamOrphans",'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+@font-face {
+    font-family: DreamOrphans;
+    src: url(Dream\ Orphans.otf);
+  }
+
 body{
     color: rgb(241, 223, 199);
 }
