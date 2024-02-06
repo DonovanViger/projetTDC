@@ -1,5 +1,5 @@
 # projetTDC
-Contributeurs : 
+Contributeurs : <br>
 Emma Roizot - ashandcompany
 Tanguy Poulain 
 Donovan Viger 
