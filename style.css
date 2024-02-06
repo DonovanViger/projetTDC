@@ -15,6 +15,14 @@ h1{
     margin-top: 50px;
     text-align: center;
 }
-h2{
+#art1{
+    margin-top: 200px;
+    float: left;
+    margin-left: 10vw;
+}
+#art2{
+    float: right;
+}
+#art3{
     float: left;
 }
