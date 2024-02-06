@@ -8,7 +8,7 @@ body{
 }
 .menu ul{
     text-align: center;
-    margin: auto;
+    margin: 25px auto;
 }
 .menu li{
     display: flex;
