@@ -53,3 +53,13 @@ h1 {
 #plat1 {
   
 }
+
+h3:after{
+  content: '';
+  display: block;
+  height: 8px;
+  background: rgb(0, 0, 0);
+  max-width: 55px;
+  transform: skewX(-21deg) translateY(-13px);
+  border-radius: 3px;
+}
