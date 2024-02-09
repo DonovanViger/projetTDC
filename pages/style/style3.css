@@ -23,6 +23,7 @@ body {
   top: 0;
   left: 0;
   width: 100%;
+  z-index: 9999;
   
 }
 .menu ul{
@@ -89,6 +90,11 @@ h2{
   padding-top: 5vh;
   width: 80vw;
   margin: 0 auto 20vh auto;
+  transition: transform 0.3s ease;
+}
+
+#plat1:hover{
+  transform: scale(1.01);
 }
 
 .liste_ingredient{
