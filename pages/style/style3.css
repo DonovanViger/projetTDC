@@ -80,7 +80,7 @@ h2{
   font-size: 9vh;
 }
 
-#plat1, #plat2 {
+#plat1 {
   margin-top: 15vh;
   background-color: #9B4444;
   color: #EEEEEE;
@@ -88,7 +88,7 @@ h2{
   padding-bottom: 5vh;
   padding-top: 5vh;
   width: 90vw;
-  margin: auto;
+  margin: 0 auto 20vh auto;
 }
 
 #liste_ingredient{
@@ -114,4 +114,15 @@ h3{
 hr{
   width: 85vw;
   margin-top: 10vh;
+}
+
+#plat2{
+  margin-top: 30vh;
+  background-color: #9B4444;
+  color: #EEEEEE;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding-bottom: 5vh;
+  padding-top: 5vh;
+  width: 90vw;
+  margin: auto;
 }
