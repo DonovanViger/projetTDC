@@ -12,6 +12,10 @@ body, html{
     font-family: DreamOrphans;
     src: url(Dream\ Orphans.otf);
   }
+@font-face {
+    font-family: Lovera;
+    src: url(Lovera.otf);
+}
 
 body{
     color: rgb(241, 223, 199);
