@@ -12,14 +12,18 @@ body, html{
     font-family: DreamOrphans;
     src: url(Dream\ Orphans.otf);
   }
+@font-face {
+    font-family: Lovera;
+    src: url(Lovera.otf);
+}
 
 body{
-    color: rgb(241, 223, 199);
+    color: rgb(255, 255, 255);
     overflow-x: hidden;
 }
 .menu{
     display: flex;
-    background-color: rgba(217, 230, 182,0.7);
+    background-color: #9B4444;
     box-shadow: 0px 0px 20px rgb(0, 0, 0) ;
     position: fixed;
     top: 0;
@@ -38,7 +42,7 @@ body{
 }
 .menu a {
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
   }
 h1{
     margin-top: 50vh;
@@ -47,6 +51,7 @@ h1{
 }
 h2{
  font-size: 30px;
+ font-family: lovera;
 }
 h3{
     font-size: 16px;
@@ -55,7 +60,7 @@ h3{
     margin-top: 200px;
     float: left;
     padding-left: 10vw;
-    background-color: rgb(180, 170, 136);
+    background-color: #9B4444;
     width: 100%;
 }
 #art1 h3{
@@ -66,19 +71,23 @@ h3{
     float: right;
     padding-right: 10vw;
     width: 100%;
-    background-color: rgb(180, 170, 136);
+    background-color: #9B4444;
 }
 #art2 h3{
     margin-top: 50px;
     width: 70%;
     text-align: right;
     float: right;
+    clear: both;
+}
+#art2 h2{
+    float: right;
 }
 #art3{
     float: left;
     padding-left: 10vw;
     width: 100%;
-    background-color: rgb(180, 170, 136);
+    background-color: #9B4444;
 }
 #art3 h3{
     margin-top: 50px;
@@ -88,19 +97,23 @@ h3{
     float: right;
     padding-right: 10vw;
     width: 100%;
-    background-color: rgb(180, 170, 136);
+    background-color: #9B4444;
 }
 #art4 h3{
     margin-top: 50px;
     width: 70%;
     text-align: right;
     float: right;
+    clear: both;
+}
+#art4 h2{
+    float: right;
 }
 #art5{
     float: left;
     padding-left: 10vw;
     width: 100%;
-    background-color: rgb(180, 170, 136);
+    background-color: #9B4444;
 }
 #art5 h3{
     margin-top: 50px;
