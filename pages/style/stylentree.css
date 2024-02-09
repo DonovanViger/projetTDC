@@ -1,3 +1,62 @@
+::-webkit-scrollbar{
+    display: none;
+}
+body, html{
+    padding: 0;
+    margin: 0;
+    font-family: "DreamOrphans",'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+}
+
+@font-face {
+    font-family: DreamOrphans;
+    src: url(Dream\ Orphans.otf);
+  }
+
+body{
+    color: rgb(241, 223, 199);
+    overflow-x: hidden;
+}
+.menu{
+    display: flex;
+    background-color: rgba(217, 230, 182,0.7);
+    box-shadow: 0px 0px 20px rgb(0, 0, 0) ;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+}
+.menu ul{
+    text-align: center;
+    margin: 25px auto;
+}
+.menu li{
+    display: flex;
+    float: left;
+    margin: 0 7vw;
+}
+.menu a {
+    text-decoration: none;
+    color: black;
+  }
+h1{
+    margin-top: 50vh;
+    text-align: center;
+    font-size: 90px;
+}
+h2{
+ font-size: 30px;
+}
+h3{
+    font-size: 16px;
+}
+
+@font-face {
+    font-family: Lovera;
+    src: url(Lovera.otf);
+  }
+
 article {
     width: 90%;
     height: 100%;
@@ -17,6 +76,11 @@ img {
 }
 
 h3{
-    font-size: 2rem;
-    letter-spacing: 0.4rem;
+    font-size: 3rem;
+    letter-spacing: 0.2rem;
+    font-family: "Lovera";
+}
+
+li{
+    font-size: 1rem;
 }
