@@ -108,3 +108,8 @@ h3{
   margin: 7.5vh auto;
   font-size: 3vh;
 }
+
+hr{
+  width: 85vw;
+  margin-top: 10vh;
+}
