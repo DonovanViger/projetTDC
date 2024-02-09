@@ -21,4 +21,6 @@ Pour réaliser ce site, nous avons utiliser les languages HTML et CSS.
 Au niveau de l'organisation, nous avons tout d'abord réparti chaque membre sur une page.
 Ensuite nous avons regroupé nos différents styles en CSS afin d'avoir un site cohérent dans son esthétisme.
 
+# Difficultés
+Les difficultés que nous avons rencontrées étaient en premier lieu de prendre en main comment se connecter au github et de faire les push des nouveautés. 
 
