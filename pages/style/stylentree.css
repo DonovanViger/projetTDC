@@ -55,15 +55,20 @@
   }
 
 article {
-    width: 90%;
+    width: 80%;
     height: 100%;
     display: flex;
     background-color:#9B4444;
     color: #EEEEEE;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
     margin: auto;
-    margin-bottom: 50px;
+    margin-bottom: 80px;
     padding: 20px;
+    transition: transform 0.3s;
+}
+
+article:hover {
+    transform: scale(1.01);
 }
 
 img {
