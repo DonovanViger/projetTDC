@@ -15,31 +15,31 @@ body {
   src: url(../../Dream\ Orphans.otf);
 }
 
-.menu {
+.menu{
   display: flex;
   background-color: #9B4444;
-  box-shadow: 0px 0px 20px rgb(0, 0, 0);
+  box-shadow: 0px 0px 20px rgb(0, 0, 0) ;
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-
+  
 }
-
-.menu ul {
+.menu ul{
   text-align: center;
   margin: 25px auto;
 }
-
-.menu li {
+.menu li{
   display: flex;
   float: left;
   margin: 0 7vw;
 }
-
 .menu a {
   text-decoration: none;
-  color: white;
+  color: rgb(255, 255, 255);
+}
+.menu a:hover{
+  text-decoration: underline;
 }
 
 h1{
