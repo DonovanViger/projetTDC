@@ -105,7 +105,7 @@ h3{
   font-weight: bold;
 }
 
-#boite_preparation{
+.boite_preparation{
   width: 70vw;
   margin: 7.5vh auto;
   font-size: 3vh;
