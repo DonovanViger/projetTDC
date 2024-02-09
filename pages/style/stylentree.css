@@ -5,7 +5,7 @@
   body {
     margin: 0px;
     padding: 0px;
-    background-color: rgb(241, 223, 199);
+    background-color: #C68484;
     font-family: "DreamOrphans", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     letter-spacing: 2px;
   }
@@ -59,7 +59,7 @@ article {
     display: flex;
     background-color:#9B4444;
     color: #EEEEEE;
-    box-shadow: #C68484 0px 20px 30px -10px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
     margin: auto;
     margin-bottom: 50px;
     padding: 20px;
