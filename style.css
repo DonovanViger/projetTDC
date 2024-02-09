@@ -62,6 +62,14 @@ h3{
 article a{
     text-decoration: none;
 }
+article .gauche{
+    float: left;
+    clear: both;
+}
+article .droite{
+    clear: both;
+    float: right;
+}
 #art1{
     margin-top: 200px;
     float: left;
