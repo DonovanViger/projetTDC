@@ -53,6 +53,15 @@ h1{
   margin-top: -5vh;
 }
 
+img{
+  float: left;
+}
+
+#ingredient1 {
+  float: left;
+  width: 50vw;
+}
+
 .block {
   margin: 0px 10px;
   width: 25%;
