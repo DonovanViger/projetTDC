@@ -36,7 +36,7 @@ body {
 }
 .menu a {
   text-decoration: none;
-  color: rgb(255, 255, 255);
+  color: #EEEEEE;
 }
 .menu a:hover{
   text-decoration: underline;
@@ -50,13 +50,15 @@ h1{
   margin-top: 30vh;
   text-align: center;
   font-size: 7vw;
-  color: white;
+  color: #EEEEEE;
 }
 
 #sousTitre {
   text-align: center;
   margin-top: -5vh;
-  color: white;
+  color: #EEEEEE;
+  font-size: 4vh;
+  margin-bottom: 10vh;
 }
 
 img{
@@ -85,7 +87,7 @@ h2{
 #plat1 {
   margin-top: 15vh;
   background-color: #9B4444;
-  color: white;
+  color: #EEEEEE;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   padding-bottom: 5vh;
   padding-top: 5vh;
