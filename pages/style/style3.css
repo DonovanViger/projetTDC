@@ -91,7 +91,7 @@ h2{
   margin: 0 auto 20vh auto;
 }
 
-#liste_ingredient{
+.liste_ingredient{
   list-style: none;
   font-size: 3.5vh;
 }
