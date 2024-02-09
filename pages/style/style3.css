@@ -89,4 +89,11 @@ li{
 h3{
   margin-top: 10vh;
   text-align: center;
+  font-size: 5vh;
+  font-weight: bold;
+}
+
+#boite_preparation{
+  width: 80vw;
+  margin: 7.5vh auto;
 }
