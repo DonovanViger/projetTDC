@@ -91,10 +91,12 @@ h2{
   margin: auto;
 }
 
-li{
+#liste_ingredient{
   list-style: none;
   font-size: 3.5vh;
 }
+
+
 
 h3{
   margin-top: 10vh;
