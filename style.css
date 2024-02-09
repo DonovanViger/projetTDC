@@ -98,6 +98,9 @@ h3{
 }
 #art5{
     float: left;
+    padding-left: 10vw;
+    width: 100%;
+    background-color: rgb(180, 170, 136);
 }
 #background-video {
     height: 100vh;
