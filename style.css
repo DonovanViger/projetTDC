@@ -100,6 +100,9 @@ h3{
     text-align: right;
     float: right;
 }
+#art4 h2{
+    float: right;
+}
 #art5{
     float: left;
     padding-left: 10vw;
