@@ -1,0 +1,11 @@
+article {
+    display: flex;
+}
+
+.recette {
+    flex: 1;
+}
+
+.image {
+    flex: 1;
+}
