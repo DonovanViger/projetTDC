@@ -64,6 +64,11 @@ img{
   width: 50vw;
 }
 
+h2{
+  text-align: center;
+  font-size: 7vh;
+}
+
 .block {
   margin: 0px 10px;
   width: 25%;
