@@ -74,6 +74,9 @@ h3{
     text-align: right;
     float: right;
 }
+#art2 h2{
+    float: right;
+}
 #art3{
     float: left;
     padding-left: 10vw;
