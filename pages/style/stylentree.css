@@ -1,21 +1,14 @@
 article {
-    width: 100%;
+    width: 90%;
     height: 100%;
     display: flex;
-    max-width: 900px;
-    max-height: 550px;   
-    overflow: hidden;
-  position: relative;
+    position: relative;
+    background-color:darkseagreen;
+    margin: auto;
+    margin-bottom: 50px;
 }
 
-.recette {
-    flex: 1;
-}
-
-.image {
-    flex: 0.5;
-}
-
-img{
-    width: 600px;
+img {
+    padding: 40px;
+    width: 500px;
 }
