@@ -41,7 +41,7 @@ body{
     color: black;
   }
 h1{
-    margin-top: 300vh;
+    margin-top: 50vh;
     text-align: center;
     font-size: 90px;
 }
@@ -58,8 +58,30 @@ h1{
 }
 #art2{
     float: right;
+    padding-right: 10vw;
+    width: 100%;
+    background-color: rgb(180, 170, 136);
+}
+#art2 h3{
+    margin-top: 50px;
+    width: 70%;
+    text-align: right;
+    float: right;
 }
 #art3{
+    float: left;
+    padding-left: 10vw;
+    width: 100%;
+    background-color: rgb(180, 170, 136);
+}
+#art3 h3{
+    margin-top: 50px;
+    width: 70%;
+}
+#art4{
+    float: left;
+}
+#art5{
     float: left;
 }
 #background-video {
