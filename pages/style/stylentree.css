@@ -13,6 +13,7 @@ article {
 img {
     padding: 40px;
     width: 500px;
+    box-shadow: none;
 }
 
 h3{
