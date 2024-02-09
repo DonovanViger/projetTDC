@@ -73,13 +73,13 @@ img{
 
 #titre_ingredient{
   margin-left: 6vw;
-  font-size: 5vh;
+  font-size: 8vh;
   font-weight: bold;
 }
 
 h2{
   text-align: center;
-  font-size: 7vh;
+  font-size: 10vh;
 }
 
 #plat1 {
@@ -99,11 +99,12 @@ li{
 h3{
   margin-top: 10vh;
   text-align: center;
-  font-size: 5vh;
+  font-size: 8vh;
   font-weight: bold;
 }
 
 #boite_preparation{
   width: 80vw;
   margin: 7.5vh auto;
+  font-size: 3vh;
 }
