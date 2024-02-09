@@ -87,7 +87,7 @@ h2{
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   padding-bottom: 5vh;
   padding-top: 5vh;
-  width: 90vw;
+  width: 80vw;
   margin: 0 auto 20vh auto;
 }
 
@@ -123,6 +123,6 @@ hr{
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   padding-bottom: 5vh;
   padding-top: 5vh;
-  width: 90vw;
+  width: 80vw;
   margin: auto;
 }
