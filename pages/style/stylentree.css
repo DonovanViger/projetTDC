@@ -36,7 +36,7 @@
 }
 .menu a {
     text-decoration: none;
-    color: rgb(255, 255, 255);
+    color: #EEEEEE;
   }
 .menu a:hover{
     text-decoration: underline;
@@ -80,3 +80,4 @@ h3{
 li{
     font-size: 1rem;
 }
+
