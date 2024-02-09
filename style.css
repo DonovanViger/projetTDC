@@ -85,6 +85,7 @@ h3{
 }
 #art2 h2{
     float: right;
+    margin-top: 30vh;
 }
 #art3{
     float: left;
@@ -95,6 +96,9 @@ h3{
 #art3 h3{
     margin-top: 50px;
     width: 70%;
+}
+#art3 h2{
+    margin-top: 30vh;
 }
 #art4{
     float: right;
@@ -111,6 +115,7 @@ h3{
 }
 #art4 h2{
     float: right;
+    margin-top: 30vh;
 }
 #art5{
     float: left;
@@ -121,6 +126,9 @@ h3{
 #art5 h3{
     margin-top: 50px;
     width: 70%;
+}
+#art5 h2{
+    margin-top: 30vh;
 }
 #background-video {
     height: 100vh;
