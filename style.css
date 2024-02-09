@@ -66,6 +66,12 @@ h3{
     background-color: #9B4444;
     width: 100%;
 }
+.fond{
+    background-image: url(images/3583759.jpg);
+    background-position: 50%;
+    background-size: contain;
+    background-attachment: fixed;
+}
 #art1 h3{
     margin-top: 50px;
     width: 70%;
