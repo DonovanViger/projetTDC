@@ -67,7 +67,8 @@ img{
 }
 
 #ingredient1 {
-  width: 70vw;
+  width: 90vw;
+  margin: auto;
 }
 
 #titre_ingredient{
