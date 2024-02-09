@@ -5,7 +5,7 @@ html,
 body {
   margin: 0px;
   padding: 0px;
-  background-color: rgb(241, 223, 199);
+  background-color: #7C3636;
   font-family: "DreamOrphans", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   letter-spacing: 2px;
 }
@@ -17,7 +17,7 @@ body {
 
 .menu {
   display: flex;
-  background-color: rgba(217, 230, 182, 0.7);
+  background-color: #9B4444;
   box-shadow: 0px 0px 20px rgb(0, 0, 0);
   position: fixed;
   top: 0;
@@ -39,24 +39,26 @@ body {
 
 .menu a {
   text-decoration: none;
-  color: black;
+  color: white;
 }
 
 h1{
   margin-top: 30vh;
   text-align: center;
   font-size: 7vw;
+  color: white;
 }
 
 #sousTitre {
   text-align: center;
   margin-top: -5vh;
+  color: white;
 }
 
 img{
-  width: 100vw;
+  width: 50vw;
   height: auto;
-  margin: 5vh 0 0 0;
+  margin: 5vh  0 ;
   box-shadow: 0px 0px 20px rgb(0, 0, 0);
 }
 
@@ -77,7 +79,8 @@ h2{
 
 #plat1 {
   margin-top: 15vh;
-  background-color: rgba(217, 230, 182,0.7);
+  background-color: #9B4444;
+  color: white;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
