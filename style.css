@@ -99,6 +99,7 @@ h3{
     width: 70%;
     text-align: right;
     float: right;
+    clear: both;
 }
 #art4 h2{
     float: right;
