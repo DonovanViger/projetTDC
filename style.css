@@ -73,6 +73,10 @@ h3{
     width: 70%;
     text-align: right;
     float: right;
+    clear: both;
+}
+#art2 h2{
+    float: right;
 }
 #art3{
     float: left;
@@ -98,6 +102,13 @@ h3{
 }
 #art5{
     float: left;
+    padding-left: 10vw;
+    width: 100%;
+    background-color: rgb(180, 170, 136);
+}
+#art5 h3{
+    margin-top: 50px;
+    width: 70%;
 }
 #background-video {
     height: 100vh;
