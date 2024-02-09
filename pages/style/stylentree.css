@@ -74,8 +74,10 @@ article:hover {
 
 img {
     padding: 40px;
-    width: 450px;
+    width: 400px;
     box-shadow: none;
+    height: 600px;
+    object-fit: cover;
 }
 
 h3{
