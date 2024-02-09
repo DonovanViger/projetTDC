@@ -93,7 +93,7 @@ h2{
   transition: transform 0.3s ease;
 }
 
-#plat1:hover{
+#plat1:hover, #plat2:hover, #plat3:hover{
   transform: scale(1.01);
 }
 
@@ -131,6 +131,7 @@ hr{
   padding-top: 5vh;
   width: 80vw;
   margin: 0 auto 20vh auto;
+  transition: transform 0.3s ease;
 
 }
 
@@ -143,4 +144,5 @@ hr{
   padding-top: 5vh;
   width: 80vw;
   margin: 0 auto 20vh auto;
+  transition: transform 0.3s ease;
 }
