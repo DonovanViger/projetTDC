@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Lovera;
+    src: url(Lovera.otf);
+  }
+
 article {
     width: 90%;
     height: 100%;
@@ -17,6 +22,11 @@ img {
 }
 
 h3{
-    font-size: 2rem;
+    font-size: 3rem;
     letter-spacing: 0.4rem;
+    font-family: "Lovera";
+}
+
+li{
+    font-size: 1rem;
 }
