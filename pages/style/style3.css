@@ -36,12 +36,8 @@ body {
 }
 .menu a {
   text-decoration: none;
-  color: #EEEEEE;
+  color: rgb(255, 255, 255);
 }
-.menu a:hover{
-  text-decoration: underline;
-}
-
 .menu a:hover{
   text-decoration: underline;
 }
