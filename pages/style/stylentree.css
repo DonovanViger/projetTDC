@@ -59,7 +59,7 @@ h1 {
   src: url(Lovera.otf);
 }
 
-article {
+.recettes article {
   width: 80%;
   height: 100%;
   display: flex;
@@ -72,11 +72,11 @@ article {
   transition: transform 0.3s;
 }
 
-article:hover {
+.recettes article:hover {
   transform: scale(1.01);
 }
 
-img {
+.recettes img {
   padding: 40px;
   width: 400px;
   box-shadow: none;
@@ -84,13 +84,13 @@ img {
   object-fit: cover;
 }
 
-h3 {
+.recettes h3 {
   font-size: 3rem;
   letter-spacing: 0.1rem;
   font-family: "Lovera";
 }
 
-li {
+.recettes li {
   font-size: 1rem;
 }
 
