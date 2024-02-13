@@ -19,8 +19,10 @@ Pour réaliser ce site, nous avons utiliser les languages HTML et CSS.
 Nous avons créé le site en utilisant les navigateurs OpéraGX, Brave et Firefox.
 
 # Organisation 
-Au niveau de l'organisation, nous avons tout d'abord réparti chaque membre sur une page.
-Ensuite nous avons regroupé nos différents styles en CSS afin d'avoir un site cohérent dans son esthétisme.
+Au niveau de l'organisation, nous avons tout d'abord réparti chaque membre sur une page. <br>
+Ensuite nous avons regroupé nos différents styles en CSS afin d'avoir un site cohérent dans son esthétisme. <br>
+Nous avons crée un premier tag v1.0 après avoir réaliser le site intégralement avec ses contenus et ses différents style. <br>
+Nous avons enfin ajouter un tag v2.0 lorsque nous avons fusionné les différents styles des pages des recettes. <br>
 
 # Difficultés
 Les difficultés que nous avons rencontrées étaient en premier lieu de prendre en main comment se connecter au github et de faire les push des nouveautés. 
