@@ -72,7 +72,7 @@ body {
   font-weight: bold;
 }
 
-#h2_plats {
+.h2_plats {
   text-align: center;
   font-size: 7vh;
 }
@@ -81,7 +81,7 @@ body {
 #plat2,
 #plat3 {
   margin-top: 15vh;
-  background-color: #eee; /* Couleur de fond du conteneur de plat */
+  background-color: #FFFFFF;
   color: #333; /* Couleur de texte plus foncée */
   box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 15px; /* Ombre plus légère */
   padding-bottom: 5vh;
