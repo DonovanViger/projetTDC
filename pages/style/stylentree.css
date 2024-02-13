@@ -17,6 +17,11 @@ body {
   src: url(../../Dream\ Orphans.otf);
 }
 
+@font-face {
+  font-family: Lovera;
+  src: url(Lovera.otf);
+}
+
 .menu {
   display: flex;
   background-color: #9B4444;
@@ -54,10 +59,7 @@ body {
   font-size: 7vw;
 }
 
-@font-face {
-  font-family: Lovera;
-  src: url(Lovera.otf);
-}
+
 
 .recettes article {
   width: 80%;
