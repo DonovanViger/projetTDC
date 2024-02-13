@@ -1,0 +1,99 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #F2F2F2;
+    color: #333333;
+    font-family: "DreamOrphans", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+}
+
+@font-face {
+    font-family: DreamOrphans;
+    src: url(../../Dream\ Orphans.otf);
+}
+
+.menu {
+    display: flex;
+    background-color: #FFFFFF;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+}
+
+.menu ul {
+    text-align: center;
+    margin: 25px auto;
+}
+
+.menu li {
+    display: flex;
+    float: left;
+    margin: 0 7vw;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #333333;
+}
+
+.menu a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    margin-top: 30vh;
+    text-align: center;
+    font-size: 7vw;
+}
+
+@font-face {
+    font-family: Lovera;
+    src: url(Lovera.otf);
+}
+
+.recettes article {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    background-color: #FFFFFF;
+    color: #333333;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    margin: auto;
+    margin-bottom: 80px;
+    padding: 20px;
+    transition: transform 0.3s;
+}
+
+.recettes article:hover {
+    transform: scale(1.01);
+}
+
+.recettes img {
+    padding: 40px;
+    width: 400px;
+    box-shadow: none;
+    height: 600px;
+    object-fit: cover;
+}
+
+.recettes h3 {
+    font-size: 3rem;
+    letter-spacing: 0.1rem;
+    font-family: "Lovera";
+}
+
+.recettes li {
+    font-size: 1rem;
+}
+
+.recette {
+    padding: 20px;
+}
