@@ -16,6 +16,7 @@ Nous avons mis en place 1 page d'accueil ainsi que 3 pages proposant des recette
 
 # Techniques
 Pour réaliser ce site, nous avons utiliser les languages HTML et CSS.
+Nous avons créé le site en utilisant les navigateurs OpéraGX, Brave et Firefox.
 
 # Organisation 
 Au niveau de l'organisation, nous avons tout d'abord réparti chaque membre sur une page.
