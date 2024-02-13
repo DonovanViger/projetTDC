@@ -101,6 +101,8 @@ h1 {
 
 .button-17 {
   align-items: center;
+  margin: 3% 8%;
+  font-family: "DreamOrphans", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   appearance: none;
   background-color: #fff;
   border-radius: 24px;
@@ -111,7 +113,6 @@ h1 {
   cursor: pointer;
   display: inline-flex;
   fill: currentcolor;
-  font-family: "Google Sans",Roboto,Arial,sans-serif;
   font-size: 14px;
   font-weight: 500;
   height: 48px;
