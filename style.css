@@ -105,7 +105,7 @@ article img{
 }
 #art2 h2{
     float: right;
-    margin-top: 30vh;
+    margin-top: 20vh;
 }
 #art3{
     float: left;
@@ -118,7 +118,7 @@ article img{
     width: 70%;
 }
 #art3 h2{
-    margin-top: 30vh;
+    margin-top: 20vh;
 }
 #art4{
     float: right;
@@ -135,7 +135,7 @@ article img{
 }
 #art4 h2{
     float: right;
-    margin-top: 30vh;
+    margin-top: 20vh;
 }
 #art5{
     float: left;
@@ -148,7 +148,7 @@ article img{
     width: 70%;
 }
 #art5 h2{
-    margin-top: 30vh;
+    margin-top: 20vh;
 }
 button,
       button::after {
